@@ -1,0 +1,444 @@
+body{
+    overflow-x: hidden;
+}
+.whole{
+    background: url(https://i.pinimg.com/736x/c4/4d/b7/c44db751dda9877e2ca7a7d72c292a04.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 1050px;
+    width: 100vhm;
+}
+a h3{
+    color: white;
+    font-weight: 700;
+}
+.nav-8{
+    gap: 10px;
+    margin-top: 10px;
+    justify-content: center;
+}
+.link1{
+    margin-right: 30px;
+}
+.list2{
+    list-style-type: none;
+    display: flex;
+    position: relative;
+    top: 7px;
+}
+.dropdown-item{
+    background-color: none;
+    border: none;
+}
+.btn-light{
+    border-radius: 100px !important;
+    margin-top: 2rem;
+    height: 40px;
+    width: 150px;
+    font-size: 5px;
+    padding: 50px;
+}
+.main{
+    height: 700px;
+    width: 1000px;
+    margin: 150px 0 0 250px;
+    color: white;
+}
+.main p{
+    font-size: 18px;
+}
+.main h1{
+    font-size: 80px;
+    font-weight: 600;
+}
+.main1{
+    justify-content: center;
+    align-items: center;
+}
+.main1-link{
+    gap: 50px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.main1-link li{
+    list-style-type: none;
+}
+.btn-group{
+    background-color: white;
+    padding: 10px;
+    border-radius: 100px !important;
+}
+.navdown::after {
+    margin-left: 70px !important;
+}
+.navdown1::after{
+    visibility: hidden !important;
+}
+.dropdown:hover .dropdown-menu {
+    display: block;
+    position: absolute;
+    inset: 0px auto auto 0px;
+    margin: 0px;
+    transform: translate3d(0px, 74.4px, 0px);
+}
+.btn-group .dropdown{
+    padding: 0 20px;
+}
+.main-button{
+    height: 60px;
+    border-radius: 100px !important;
+    width: 30px;
+}
+.cars{
+    display: flex;
+    justify-content: center;
+    font-weight: 400;
+    background-color: rgba(255, 255, 255, 0.3) !important;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 100px !important;
+    margin-left: 20px;
+    width: 130px;
+}
+.cars:hover{
+    background-color: rgba(255, 255, 255, 0.7) !important;
+}
+.cars img{
+    height: 24px;
+    width: 24px;
+}
+.d-grid{
+    margin-left: 100px;
+}
+.premium{
+    background-color: #F9FBFC;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    z-index: 1;
+    width: 100%;
+    margin: none;
+    height: 600px;
+}
+.explorebrands{
+    padding-top: 100px;
+}
+.explore h1{
+    font-weight: 700;
+}
+.brands{
+    position: relative;
+    top: 10px;
+    width: 200px;
+    margin-left: 200px;
+    background: none !important;
+}
+.brands:hover{
+    color: rgb(55, 55, 249) !important;
+}
+.logos{
+    display: flex;
+    gap: 20px;
+}
+.logos img{
+    width: 200px;
+    height: 200px;
+}
+.card1:hover{
+    border: 1px solid #050B20;
+    color: #050B20;
+}
+.card1 .card-body h5{
+    text-align: center;
+}
+.vr{
+    border: 1px solid gray;
+}
+.d-block{
+    padding-top: 530px;
+}
+.carlist{
+    gap: 50px;
+    position: relative;
+    right: 28px;
+}
+.carlist li{
+    list-style-type: none;
+}
+.carlist li a{
+    text-decoration: none;
+    border: none;
+    color: black;
+    font-weight: 600;
+}
+.carlist li a:hover{
+     border-bottom: 3px solid #0A5EB0;
+}
+.item .card img{
+    width: 100px;
+    height: 200px;
+}
+.icon1{
+    display: flex;
+    justify-content: space-around;
+    align-items: start;
+    gap:10px;
+}
+.icon1 span{
+    display: flex;
+    justify-content: start; 
+}
+.icon2{
+    padding-left: 10px;
+    display: flex;
+    justify-content: start;
+    gap: 45px;
+    align-items: center;
+}
+.icon3{
+    display: flex;
+    justify-content: space-around;
+    align-items: start;
+    gap: 85px;
+}
+.ulink{
+    width: 200px;
+    background: none !important;
+}
+.owl-next{
+    width: 50px;
+    height: 50px;
+    font-size: 26px !important;
+    border: 1px solid rgb(160, 160, 160) !important;
+    border-radius: 50px;
+}
+.owl-prev{
+    width: 50px;
+    height: 50px;
+    font-size: 26px !important;
+    border: 1px solid rgb(160, 160, 160) !important;
+    border-radius: 50px;
+}
+.owl-carousel .owl-nav button.owl-prev:hover, .owl-next:hover{
+    border: 1px solid rgb(57, 57, 57) !important;
+}
+ .play{
+    position: relative;
+    color: white;
+    bottom: 520px;
+    font-size: 100px;
+    left: 260px;
+}
+.card2{
+    background-color: #EEF1FB;
+    height: 700px;
+    padding: 250px 0px;
+    display: flex;
+    flex-direction: column; 
+}
+.card2 li{
+    list-style-type: none;
+}
+.card2-0{
+    width: 550px;
+    padding-left: 79px;
+}
+.card2-0 h1{
+    font-weight: 700;
+}
+.second{
+    background-color: #050B20;
+    color: white;
+}
+.carlist1{
+    gap: 50px;
+    position: relative;
+    right: 28px;
+}
+.carlist1 li{
+    list-style-type: none;
+}
+.carlist1 li a{
+    text-decoration: none;
+    border: none;
+    color: black;
+    font-weight: 600;
+}
+.carlist1 li a:hover{
+     border-bottom: 3px solid #ffffff;
+}
+.second-carousel .card-body{
+    background-color: #171C30;
+    color: white;
+}
+.second1{
+    margin: 0 50px;
+}
+.brands1{
+    position: relative;
+    top: 10px;
+    width: 200px;
+    margin-left: 500px;
+    background: none !important;
+}
+.brands1:hover{
+    color: rgb(55, 55, 249) !important;
+}
+.icon1-1{
+    display: flex;
+    justify-content: space-around;
+    align-items: start;
+    gap: 6px;
+}
+.icon1-1 span{
+    display: flex;
+    justify-content: start; 
+}
+.icon2-1{
+    padding-left: 10px;
+    display: flex;
+    justify-content: start;
+    gap: 33px;
+    align-items: center;
+}
+.third-carousel img{
+    border-radius: 20px;
+}
+.third-carousel .owl-nav {
+  display: flex;
+  justify-content: space-between; 
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  transform: translateY(-50%);
+  pointer-events: none; 
+}
+
+.third-carousel .owl-prev, .third-carousel .owl-next {
+  background-color: #333;  
+  color: #9a9898 !important;            
+  padding: 10px 15px;     
+  border-radius: 40px;    
+  pointer-events: auto;  
+  cursor: pointer;
+  font-size: 16px;      
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+.third-carousel .owl-prev:hover, .owl-next:hover {
+  background-color: #555;
+}
+
+.third-carousel .owl-prev {
+  position: absolute;
+  left: 10px; 
+}
+
+.third-carousel .owl-next {
+  position: absolute;
+  right: 10px;
+}
+.review{
+    background-color: #F9FBFC;
+}
+.lambos{
+    overflow:  hidden;
+}
+.lambo{
+    width: 100%; 
+    height: 100%; 
+    transition: transform 0.3s ease;
+}
+.lambo:hover{
+    transform: scale(1.1);
+}
+.get1{
+    background-color: #E9F2FF;
+}
+.get1 p{
+    width: 365px;
+}
+.get2{
+    background-color: #FDE7F1;
+}
+.get2 p{
+    width: 365px;
+}
+.get-img{
+    position: relative;
+    left: 300px;
+}
+.cards{
+    gap: 20px;
+}
+.footer{
+    color: white;
+    background-color: #050B20;
+}
+.footer1{
+    border-bottom-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+    background-color: white;
+    position: relative;
+    height: 500px;
+    padding-top: 20px;
+}
+.before-footer{
+    background-color: #050B20;
+}
+.mail{
+    border-radius: 100px;
+    background-color: #252B3D;
+    height: 100px;
+    width: 700px;
+    padding: 20px;
+}
+.mail .input-group input{
+    background-color: #252B3D;
+    padding: 20px;
+    border-style: none !important;
+    border-color: transparent !important;
+}
+.email-input::placeholder { 
+    color: #BABCC2 !important;
+  }
+  .sign{
+    padding: 5px 50px !important;
+    border-radius: 100px !important;
+  }
+  .form-control:focus{
+    box-shadow: none !important;
+  }
+  .bi-apple{
+    font-size: 25px;
+  }
+  .bi-google-play{
+    font-size:  20px;
+}
+  .app{
+    background-color: rgba(255, 255, 255, 0.07) !important;
+    width: 220px;
+  }
+  .app:hover{
+    background-color:  rgba(255, 255, 255, 0.397) !important;
+  }
+  .social{
+    gap: 15px;
+  }
+  .social p{
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 50%;
+  }
+  .social p:hover{
+    background-color:  rgba(255, 255, 255, 0.07);
+  }
+  .footer-link ul{
+    list-style-type: none;
+    padding: 0 20px;
+  }
+  .footer-link h4{
+    padding-left: 15px;
+  }
+  .fhori{
+    border: 2px solid rgb(208, 208, 208);
+  }
